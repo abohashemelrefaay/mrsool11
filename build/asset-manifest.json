@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrsool/static/css/main.a0c04544.css",
+    "main.js": "/mrsool/static/js/main.9a773a78.js",
+    "static/js/453.fda24832.chunk.js": "/mrsool/static/js/453.fda24832.chunk.js",
+    "index.html": "/mrsool/index.html",
+    "main.a0c04544.css.map": "/mrsool/static/css/main.a0c04544.css.map",
+    "main.9a773a78.js.map": "/mrsool/static/js/main.9a773a78.js.map",
+    "453.fda24832.chunk.js.map": "/mrsool/static/js/453.fda24832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c04544.css",
+    "static/js/main.9a773a78.js"
+  ]
+}
